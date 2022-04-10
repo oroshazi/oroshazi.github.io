@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    background-color: blanchedalmond;
+    color: black;
+}
+
+td,
+th {
+    border: none;
+    padding: 10px;
+    text-align: left;
+}
+
+tr:hover {
+    background-color: rgb(67, 66, 66);
+    cursor: pointer;
+    border: none;
+}
+

@@ -51,11 +51,12 @@ function createTableHead(table, data) {
 
 function createTable(table, data) {
     let players = data.players;
+    let tbody = table.createTBody();
 
     players.sort((a, z) => z.score - a.score)
 
     for (player of players) {
-        let row = table.insertRow();
+        let row = tbody.insertRow();
 
         let indexCell = row.insertCell();
         let index = document.createTextNode(players.indexOf(player) + 1);
