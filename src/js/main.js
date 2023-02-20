@@ -3,33 +3,54 @@ const data = {
         {
             "firstName": "Noemi",
             "lastName": "Szentimrei",
-            "score": 6
+            "score": 0 + 0
         },
         {
             "firstName": "Zsofi",
             "lastName": "Oszlay",
-            "score": 11
+            "score": 2 + 0
         },
         {
             "firstName": "Tomi",
             "lastName": "Nagy",
-            "score": 5
+            "score": 0 + 0
         },
         {
             "firstName": "OPeti",
             "lastName": "Oroshazi",
-            "score": 11
+            "score": 1 + 0
         },
         {
             "firstName": "Julcsi",
             "lastName": "Oroshazi",
-            "score": 14
+            "score": 3 + 0
         },
         {
             "firstName": "LPeti",
             "lastName": "Lindner",
-            "score": 10
-        }
+            "score": 0 + 2
+        },
+        {
+            "firstName": "Abel",
+            "lastName": "",
+            "score": 0 + 0
+        },
+        {
+            "firstName": "Mano",
+            "lastName": "Dulcz",
+            "score": 0 + 3
+        },
+        {
+            "firstName": "Szabolcs",
+            "lastName": "Szasz",
+            "score": 0 + 2
+        },
+        {
+            "firstName": "Nori",
+            "lastName": "",
+            "score": 0 + 1
+        },
+        
     ]
 }
 
